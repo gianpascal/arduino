@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost:3307',
-	'username' => 'user_pulso',
-	'password' => '123456',
+	'hostname' => 'localhost:3306',//'localhost:3307',
+	'username' => 'root',//'user_pulso',
+	'password' => '',
 	'database' => 'db_pulso',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',

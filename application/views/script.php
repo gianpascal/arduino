@@ -1,22 +1,22 @@
 
 <!-- jQuery 3 -->
-<script src="source/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="<?php base_url()?>source/bower_components/jquery/dist/jquery.min.js"></script>
 <!-- Bootstrap 3.3.7 -->
-<script src="source/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="<?php base_url()?>source/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 <!-- FastClick -->
-<script src="source/bower_components/fastclick/lib/fastclick.js"></script>
+<script src="<?php base_url()?>source/bower_components/fastclick/lib/fastclick.js"></script>
 <!-- AdminLTE App -->
-<script src="source/dist/js/adminlte.min.js"></script>
+<script src="<?php base_url()?>source/dist/js/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="source/dist/js/demo.js"></script>
+<script src="<?php base_url()?>source/dist/js/demo.js"></script>
 <!-- FLOT CHARTS -->
-<script src="source/bower_components/Flot/jquery.flot.js"></script>
+<script src="<?php base_url()?>source/bower_components/Flot/jquery.flot.js"></script>
 <!-- FLOT RESIZE PLUGIN - allows the chart to redraw when the window is resized -->
-<script src="source/bower_components/Flot/jquery.flot.resize.js"></script>
+<script src="<?php base_url()?>source/bower_components/Flot/jquery.flot.resize.js"></script>
 <!-- FLOT PIE PLUGIN - also used to draw donut charts -->
-<script src="source/bower_components/Flot/jquery.flot.pie.js"></script>
+<script src="<?php base_url()?>source/bower_components/Flot/jquery.flot.pie.js"></script>
 <!-- FLOT CATEGORIES PLUGIN - Used to draw bar charts -->
-<script src="source/bower_components/Flot/jquery.flot.categories.js"></script>
+<script src="<?php base_url()?>source/bower_components/Flot/jquery.flot.categories.js"></script>
 <!-- Page script -->
 <script>
   $(function () {
